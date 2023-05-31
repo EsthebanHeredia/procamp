@@ -1,0 +1,49 @@
+/*Rest of Devices*/
+@media only screen and (max-width:3000px){
+    #botonAlterno{
+        padding-top:4%;
+    }
+    #bar{
+        height:15px;
+    }
+    .pestaña{
+        padding:15%;
+        border-radius:11px;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+    }
+}
+/*Small Devices, Tablets*/
+@media only screen and (max-width:767px){
+    #botonAlterno{
+        padding-top:4%;
+    }
+    #bar{
+        height:15px;
+    }
+    .pestaña{
+        padding:15%;
+        border-radius:11px;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+    }
+}
+/*Extra Small Devices, Phones*/
+@media only screen and (max-width:479px){
+    #botonAlterno{
+        padding-top:60px;
+    }
+    #bar{
+        height:10px;
+    }
+    .pestaña{
+        padding:15%;
+        border-radius:5px;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+    }
+    #dia-title{
+        font-size:15px;
+    }
+}
+/*Quasi Small Devices, Others*/
+@media only screen and (max-width:700px){
+
+}
