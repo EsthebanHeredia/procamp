@@ -30,6 +30,8 @@ function mostrarDia() {
       </select>
         </th>
         <th><input type='number' name='precio' clase='precio'></th>
+        <th><button class='button-primary'>Editar</button></th>
+        <th><button class='button-danger'>Eliminar</button></th>
       </tr>
       <tr>
       <th>9:00 - 10:00</th>
@@ -43,6 +45,8 @@ function mostrarDia() {
     </select>
       </th>
       <th><input type='number' name='precio' clase='precio'></th>
+      <th><button class='button-primary'>Editar</button></th>
+      <th><button class='button-danger'>Eliminar</button></th>
     </tr>
     <tr>
     <th>10:00 - 11:00</th>
@@ -56,6 +60,8 @@ function mostrarDia() {
   </select>
     </th>
     <th><input type='number' name='precio' clase='precio'></th>
+    <th><button class='button-primary'>Editar</button></th>
+    <th><button class='button-danger'>Eliminar</button></th>
   </tr>
   <tr>
   <th>11:00 - 12:00</th>
@@ -69,6 +75,8 @@ function mostrarDia() {
 </select>
   </th>
   <th><input type='number' name='precio' clase='precio'></th>
+  <th><button class='button-primary'>Editar</button></th>
+  <th><button class='button-danger'>Eliminar</button></th>
 </tr>
 <tr>
 <th>12:00 - 13:00</th>
@@ -82,6 +90,8 @@ function mostrarDia() {
 </select>
 </th>
 <th><input type='number' name='precio' clase='precio'></th>
+<th><button class='button-primary'>Editar</button></th>
+<th><button class='button-danger'>Eliminar</button></th>
 </tr>
 <tr>
 <th>13:00 - 14:00</th>
@@ -95,6 +105,8 @@ function mostrarDia() {
 </select>
 </th>
 <th><input type='number' name='precio' clase='precio'></th>
+<th><button class='button-primary'>Editar</button></th>
+<th><button class='button-danger'>Eliminar</button></th>
 </tr>
 <tr>
 <th>14:00 - 15:00</th>
@@ -108,6 +120,8 @@ function mostrarDia() {
 </select>
 </th>
 <th><input type='number' name='precio' clase='precio'></th>
+<th><button class='button-primary'>Editar</button></th>
+<th><button class='button-danger'>Eliminar</button></th>
 </tr>
 <tr>
 <th>15:00 - 16:00</th>
@@ -121,6 +135,8 @@ function mostrarDia() {
 </select>
 </th>
 <th><input type='number' name='precio' clase='precio'></th>
+<th><button class='button-primary'>Editar</button></th>
+<th><button class='button-danger'>Eliminar</button></th>
 </tr>
 <tr>
 <th>16:00 - 17:00</th>
@@ -134,6 +150,8 @@ function mostrarDia() {
 </select>
 </th>
 <th><input type='number' name='precio' clase='precio'></th>
+<th><button class='button-primary'>Editar</button></th>
+<th><button class='button-danger'>Eliminar</button></th>
 </tr>
 <tr>
 <th>17:00 - 18:00</th>
@@ -147,6 +165,8 @@ function mostrarDia() {
 </select>
 </th>
 <th><input type='number' name='precio' clase='precio'></th>
+<th><button class='button-primary'>Editar</button></th>
+<th><button class='button-danger'>Eliminar</button></th>
 </tr>
 <tr>
 <th>18:00 - 19:00</th>
@@ -160,6 +180,8 @@ function mostrarDia() {
 </select>
 </th>
 <th><input type='number' name='precio' clase='precio'></th>
+<th><button class='button-primary'>Editar</button></th>
+<th><button class='button-danger'>Eliminar</button></th>
 </tr>
 <tr>
 <th>19:00 - 20:00</th>
@@ -173,6 +195,8 @@ function mostrarDia() {
 </select>
 </th>
 <th><input type='number' name='precio' clase='precio'></th>
+<th><button class='button-primary'>Editar</button></th>
+<th><button class='button-danger'>Eliminar</button></th>
 </tr>
 <tr>
 <th>20:00 - 21:00</th>
@@ -186,6 +210,8 @@ function mostrarDia() {
 </select>
 </th>
 <th><input type='number' name='precio' clase='precio'></th>
+<th><button class='button-primary'>Editar</button></th>
+<th><button class='button-danger'>Eliminar</button></th>
 </tr>
 <tr>
 <th>21:00 - 22:00</th>
@@ -199,6 +225,8 @@ function mostrarDia() {
 </select>
 </th>
 <th><input type='number' name='precio' clase='precio'></th>
+<th><button class='button-primary'>Editar</button></th>
+<th><button class='button-danger'>Eliminar</button></th>
 </tr>
 <tr>
 <th>22:00 - 23:00</th>
@@ -212,6 +240,8 @@ function mostrarDia() {
 </select>
 </th>
 <th><input type='number' name='precio' clase='precio'></th>
+<th><button class='button-primary'>Editar</button></th>
+<th><button class='button-danger'>Eliminar</button></th>
 </tr>
 <tr>
 <th>23:00 - 24:00</th>
@@ -225,6 +255,8 @@ function mostrarDia() {
 </select>
 </th>
 <th><input type='number' name='precio' clase='precio'></th>
+<th><button class='button-primary'>Editar</button></th>
+<th><button class='button-danger'>Eliminar</button></th>
 </tr>
 <tr>
 <th>Total</th>
